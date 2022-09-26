@@ -1,3 +1,3 @@
 # Applications
-I make App exmp.(notes,music) this repository 
+I will make App exmp.(notes,music) this repository 
 with Java
